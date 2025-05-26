@@ -1,5 +1,5 @@
 # Intership-task-1
-how i built it :
+How I Built the Web Development Landing Page :
 I created a responsive landing page using HTML and CSS as part of my web development internship project. First, I set up a basic project structure with two files: index.html for content and style.css for styling.
 
 I began by building the HTML5 structure, which included a header with a logo and navigation links. Then, I designed a hero section with a heading, short description, and a call-to-action button to engage users.
